@@ -1,10 +1,11 @@
-# 🌦️ Weather Forecasting with IoT and ThingSpeak
+# 🌦️ Weather Forecasting with IoT and ThingSpeak integrated with ML
 
 This project demonstrates how to set up a weather forecasting system using IoT sensors and the ThingSpeak platform. It collects weather-related data from various sensors, analyzes the data, and predicts future weather conditions.
 
 ## 🌟 Overview
 
 ### Features
+
 - Collects data on temperature, humidity, air pressure, wind speed, and rainfall.
 - Uses ThingSpeak for data storage and visualization.
 - Implements predictive modeling for weather forecasting.
@@ -46,4 +47,3 @@ Visualize the data collected from your sensors using ThingSpeak’s built-in MAT
 ## 🚀 Get Started
 
 Clone this repository and follow the setup instructions to start your own weather forecasting system!
-
